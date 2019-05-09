@@ -1,2 +1,1 @@
-# project-samuraj
-train a github with websamuraj
+# inscription with Glitch effect
